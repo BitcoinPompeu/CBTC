@@ -2,13 +2,51 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.5 1bd436f1",
   "osm3s": {
-    "timestamp_osm_base": "2025-05-05T20:18:54Z",
-    "timestamp_areas_base": "2025-02-06T02:17:44Z",
+    "timestamp_osm_base": "2025-05-05T20:31:01Z",
+    "timestamp_areas_base": "2024-12-31T00:49:33Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
 
-
+{
+  "type": "node",
+  "id": 12682198306,
+  "lat": -19.2192287,
+  "lon": -45.0028517,
+  "tags": {
+    "CBTC": "BitcoinPompeu",
+    "OBTC": "UAIBIT",
+    "addr:city": "Pompéu",
+    "addr:housenumber": "65",
+    "addr:postcode": "35640000",
+    "addr:street": "Rua Aurora Torquato",
+    "addr:suburb": "Centro",
+    "amenity_1": "drinking_water",
+    "currency:XBT": "yes",
+    "description": "Corte de cabelo Masculino e Feminino.  Agende seu horário pelo whatsapp 37999231316",
+    "female": "yes",
+    "instagram": "https://www.instagram.com/guilhermefranco/",
+    "male": "yes",
+    "name": "Studio Guilherme Franco",
+    "opening_hours": "Mo-Fr 09:00-19:00 Sun 09:00-16:00",
+    "operator": "Guilherme Franco",
+    "payment:apple_pay": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "yes",
+    "payment:mastercard": "yes",
+    "payment:notes": "yes",
+    "payment:onchain": "yes",
+    "payment:visa": "yes",
+    "payment:visa_electron": "yes",
+    "phone": "37999231316",
+    "shop": "hairdresser",
+    "survey:date": "2025-03-19"
+  }
+}
 
   ]
 }
