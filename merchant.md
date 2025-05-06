@@ -30,4 +30,6 @@
 - **shop:** hairdresser
 - **survey:date:** 2025-03-19
 
+**BTCMap:** [View on BTCMap](https://btcmap.org/merchant/node:12682198306) 
+**OpenStreetMap:** [View on OSM](https://www.openstreetmap.org/node/12682198306) 
 
